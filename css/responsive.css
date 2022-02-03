@@ -1,0 +1,219 @@
+/* wax-width 991px start */
+@media (max-width: 991px) {
+    .container-01{
+        width: 85%;
+        background-color: saddlebrown;
+    }
+    .menu ul li a{
+        width: 75%;
+        color: #0D68FF;
+        margin: 0px 10px;
+        padding: 5px;
+    }
+    .menu ul li:last-child a{
+        margin-right: 0;
+        padding-right: 0;
+    }
+    .menu ul li:hover a{
+        background-color: yellow;
+        color: black;
+       
+    }
+    .container-02{
+        width: 75%;
+    }
+    .text-01 h1{
+        font-family: OpenSans-Bold;
+        font-size: 42px;
+        line-height: 50px;
+        color: #10869b;
+    }
+    .text-01 span{
+        color: saddlebrown;
+    }
+    .text-01 p{
+    margin-top: 4px;
+    font-family: OpenSans-Regular;
+    font-size: 15px;
+    color: #63236b;
+    }
+    .wraper{
+        width: 60;
+        margin: auto;
+    }
+    .left{
+        margin-right: 25px;
+        width: 60%;
+    }
+    .left h2{
+        font-family: OpenSans-Bold;
+        font-size: 30px;
+        color: saddlebrown;
+    }
+    .left p{
+        font-family: OpenSans-Regular;
+        font-size: 14px;
+        line-height: 20px;
+        color: #63236b;
+    }
+    .right{
+        width: 75%;
+    }
+    .right h2{
+        font-family: OpenSans-Bold;
+        font-size: 45px;
+        line-height: 40px;
+        color: #6e0588;
+}
+.wraper-02{
+    margin: auto;
+   width: 80%;
+   flex-flow: wrap;
+}
+.group{
+    background-color: #FEEBED;
+    width: 48%;
+    margin-bottom: 30px;
+    
+}
+.footer p{
+    background-color: rgb(66, 170, 80);
+    font-family: OpenSans-Regular;
+    font-size: 12px;
+    color:black;
+    text-align: center;
+    padding: 7px 15px;
+}
+.footer span{
+    font-family: OpenSans-Bold;
+    color: #f4f3f5;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+}
+
+/* wax-width 991px end */
+/* wax-width 550px start */
+@media (max-width: 550px) {
+    .container-01{
+        width: 100%;
+        background-color: #9b59b6;
+    }
+    .menu{
+        display: none;
+    }
+       
+    .menu-icon{
+        color: seashell;
+        display: block;
+        margin: 10px 10px 0px 5px;
+    }
+    .container-02{
+        width: 95%;
+    }
+    .text-01 h1{
+        font-family: OpenSans-Bold;
+        font-size: 32px;
+        line-height: 45px;
+        color: #e67e22;
+    }
+    .text-01 span{
+        color: #8e44ad;
+    }
+    .text-01 p{
+    margin-top: 4px;
+    font-family: OpenSans-Regular;
+    font-size: 15px;
+    color: #16a085;
+    }
+    .benaner img{
+        display: block;
+        margin: auto;
+        width: 100%;
+    }
+    .wraper{
+       
+        margin: auto;
+        width: 100%;
+        flex-flow: wrap;
+    }
+    .left{
+       width: 100%%;
+    }
+    .left h2{
+        font-family: OpenSans-Bold;
+        font-size: 50px;
+        text-align: center;
+        color: #27ae60;
+    }
+    .left p{
+        font-family: OpenSans-Regular;
+        font-size: 17px;
+        line-height: 25px;
+        color: #f39c12;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    .right{
+        width: 70%;
+    }
+    .right h2{
+        font-family: OpenSans-Bold;
+        font-size: 40px;
+        line-height: 40px;
+        color: #e67e22;
+        text-align: left;
+}
+.wraper-02{
+   width: 100%;
+   flex-flow: wrap;
+}
+.group{
+    background-color: #FEEBED;
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+.text-02 h2{
+    font-family: OpenSans-Bold;
+    margin-top: 5px;
+    font-size: 40px;
+    padding-left: 20px;
+    color:#8e44ad;
+}
+.text-02 p{
+    font-family: OpenSans-Regular;
+    font-size: 25px;
+    color: #2ecc71;
+    margin-bottom: 20px;
+}
+.footer p{
+    background-color: #9b59b6;
+    font-family: OpenSans-Regular;
+    font-size: 10px;
+    color:#bdc3c7;
+    text-align: center;
+    padding: 15px;
+}
+.footer span{
+    font-family: OpenSans-Bold;
+    color: #d35400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+}
+
+/* wax-width 550px end */
+
+
+
+
+
+
+
+
+
+
+<!-- font awesome start-->
+<script src="https://kit.fontawesome.com/81cedb4d78.js" crossorigin="anonymous"></script>
+<!-- font awesome end-->
